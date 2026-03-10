@@ -12,6 +12,8 @@ The game did initially crash when a controller was connected, and when saving. I
 
 This seemed interesting enough that I wanted to share it. I also asked Claude to "create a writeup of everything you did", which is saved as COMPAT_WRITEUP.md.
 
+You can find a chat transcript in the "Chat Transcript" directory.
+
 ---
 
 Celeste 64 binaries are distributed under the terms of the original license: https://github.com/EXOK/Celeste64
